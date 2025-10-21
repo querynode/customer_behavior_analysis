@@ -87,27 +87,7 @@ Revealed customer purchase trends and retention rates
 
 Provided data-driven insights to improve marketing strategies
 
-⚙️ How to Run
 
-Clone this repository
-
-git clone https://github.com/yourusername/data-analytics-project.git
-
-
-Open the Jupyter Notebook file in your environment
-
-Install dependencies
-
-pip install pandas numpy matplotlib seaborn pyodbc
-
-
-Run the notebook cells sequentially
-
-Connect your SQL Server using valid credentials
-
-Open Power BI and load data from SQL Server
-
-View the Power BI dashboard and Gamma report
 
 📚 Deliverables
 
